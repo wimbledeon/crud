@@ -19,9 +19,7 @@ include "koneksi.php";
   <div class="row mb-2">
   <div class="col-sm-12">    
     <span class="m-1">
-      <button type="button" class="btn btn-primary">
-        Tambah Data
-      </button>
+    <a href="tambah.php" class="btn btn-info" role="button">Tambah Data</a>
     </span>
   </div> 
 </div>          
